@@ -4,9 +4,9 @@ Interview Buddy is an AI-powered real-time interview assistant that transcribes 
 
 ![Interview Buddy Demo]
 
-![App Screenshot](/Users/kishore/Downloads/Interview-Buddy-1/images/img1.png)
+![App Screenshot](images/img1.png)
 
-![App Screenshot](/Users/kishore/Downloads/Interview-Buddy-1/images/img2.png)
+![App Screenshot](images/img2.png)
 
 
 ## ✨ Features
